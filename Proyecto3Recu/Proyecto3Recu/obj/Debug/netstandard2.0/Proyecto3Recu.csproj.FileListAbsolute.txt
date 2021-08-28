@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\bin\Debug\netstandard2.0\Proyecto3Recu.deps.json
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\bin\Debug\netstandard2.0\Proyecto3Recu.dll
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\bin\Debug\netstandard2.0\ref\Proyecto3Recu.dll
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\bin\Debug\netstandard2.0\Proyecto3Recu.pdb
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\Proyecto3Recu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\ListaPagos.xaml.g.cs
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\Proyecto3Recu.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\Proyecto3Recu.AssemblyInfo.cs
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\Proyecto3Recu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\Proyecto3Recu.dll
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\ref\Proyecto3Recu.dll
+C:\Users\PC\source\repos\Proyecto3Recu\Proyecto3Recu\Proyecto3Recu\obj\Debug\netstandard2.0\Proyecto3Recu.pdb
